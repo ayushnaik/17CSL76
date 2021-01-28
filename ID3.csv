@@ -1,0 +1,15 @@
+﻿Outlook,Temperature,Humidity,Windy,Class
+Sunny,Hot,High,Outlook,No
+Sunny,Hot,High,Temperature,No
+Overcast,Hot,High,Outlook,Yes
+Rainy,Mild,High,Outlook,Yes
+Rainy,Cool,Normal,Outlook,Yes
+Rainy,Cool,Normal,Temperature,No
+Overcast,Cool,Normal,Temperature,Yes
+Sunny,Mild,High,Outlook,No
+Sunny,Cool,Normal,Outlook,Yes
+Rainy,Mild,Normal,Outlook,Yes
+Sunny,Mild,Normal,Temperature,Yes
+Overcast,Mild,High,Temperature,Yes
+Overcast,Hot,Normal,Outlook,Yes
+Rainy,Mild,High,Temperature,No
